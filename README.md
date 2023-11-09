@@ -8,13 +8,39 @@ I am a dedicated front-end developer with a passion for creating engaging and in
 
 ## Skills
 
-- Programming languages: JavaScript, Python 
-- Front-end frameworks: React.js, Redux
-- UI/UX design principles and best practices
-- Data analysis tools: Python (NumPy, Pandas)
-- Machine learning libraries: scikit-learn, TensorFlow, Keras
-- Version control: Git, GitHub
-- Agile methodologies
+**Programming languages:**
+* JavaScript: 💻
+* Python: 🐍
+
+**Front-end frameworks:**
+* React.js: ⚛️
+* Redux: ♻️
+
+**UI/UX design principles and best practices:**
+* User experience (UX): 👤
+* User interface (UI): 🖥️
+* Accessibility: ♿️
+* Performance: ⚡
+* Usability: 🕹️
+
+**Data analysis tools:**
+* Python: 🐍
+* NumPy: 🧮
+* Pandas: 🐼
+
+**Machine learning libraries:**
+* scikit-learn: 🤖
+* TensorFlow: 🧠
+* Keras: 🐘
+
+**Version control:**
+* Git: 🐙
+* GitHub: 🐈‍⬛
+
+**Agile methodologies:**
+* Scrum: 🏃‍♂️
+* Kanban: 🧮
+
 
 ## Projects
 
