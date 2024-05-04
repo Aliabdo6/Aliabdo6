@@ -4,10 +4,7 @@
 <p align="center">
   <b>Front-End Developer | React.js | Data Analysis | Machine Learning</b>
 </p>
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aliabdo6&style=flat-square" alt="Profile Views">
-</p>
+
 
 
 <!-- Badges with Animations -->
