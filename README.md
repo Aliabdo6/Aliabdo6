@@ -87,7 +87,7 @@ I am a dedicated front-end developer with a passion for creating engaging and in
 ## Certifications
 
 - [Meta Front-End Developer Professional Certificate](https://coursera.org/verify/professional-cert/E6PP9FUKV7VR)
-- [Data Analyst Certificate](https://confirm.udacity.com/7PQQECPH)
+- [Data Analyst Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/b2edcc94eb447760d59fa9aa02bb64d9d423bdc0)
 - [Professional Front-End Web Development by Udacity](https://confirm.udacity.com/7PQQECPH)
 
 <!-- Contact -->
