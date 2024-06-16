@@ -33,41 +33,45 @@
 I am a dedicated front-end developer with a passion for creating engaging and intuitive web applications using React.js. With a strong background in JavaScript and Python, I thrive in building performant and accessible user interfaces. Beyond front-end development, I have a keen interest in data analysis and machine learning. My curiosity drives me to continuously learn and apply new technologies to solve real-world problems and uncover meaningful insights from data.
 
 <!-- Skills -->
-## Skills
+## Languages and Tools 
+<div>
 
-**Programming languages:**
-- JavaScript
-- Python
+### Programming Languages:
+| JavaScript | Python |
+|------------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> |
 
-**Front-end frameworks:**
-- React.js
-- Next.js
-- Redux
+### Front-end Frameworks:
+| React.js | Next.js | Redux |
+|----------|---------|-------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/> |
 
-**UI/UX design principles and best practices:**
-- User experience (UX)
-- User interface (UI)
-- Accessibility
-- Performance
-- Usability
+### UI/UX Design Principles and Best Practices:
+| UX | UI | Accessibility | Performance | Usability |
+|----|----|---------------|-------------|-----------|
 
-**Data analysis tools:**
-- Python
-- NumPy
-- Pandas
 
-**Machine learning libraries:**
-- scikit-learn
-- TensorFlow
-- Keras
+### Data Analysis Tools:
+| Python | NumPy | Pandas |
+|--------|-------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> |
 
-**Version control:**
-- Git
-- GitHub
+### Machine Learning Libraries:
+| scikit-learn | TensorFlow | Keras |
+|--------------|------------|-------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" alt="scikit-learn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55"/> |
 
-**Agile methodologies:**
-- Scrum
-- Kanban
+### Version Control:
+| Git | GitHub |
+|-----|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> |
+
+### Agile Methodologies:
+| Scrum | Kanban |
+|-------|--------|
+
+
+</div>
 
 <!-- Projects -->
 ## Projects
