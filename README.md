@@ -152,8 +152,16 @@ I’m driven by curiosity and a desire to tackle new challenges. I stay up-to-da
 
 Feel free to reach out to me if you’re interested in collaborating or just want to chat about tech!
 
-- 📧 **Email:** [aliabdo12121@outlook.sa](mailto:aliabdo12121@outlook.sa)
-- 💼 **LinkedIn:** [Ali Abdo](https://www.linkedin.com/in/aliabdo6/)
-- 📱 **WhatsApp:** [+201090561644](https://wa.me/201090561644)
+<p align="center">
+  <a href="mailto:aliabdo12121@outlook.sa" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/aliabdo6/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/201090561644" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 Looking forward to connecting with you! 😊
