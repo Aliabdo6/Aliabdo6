@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Ali Abdo 👋</h1>
 
 <p align="center">
-  <b>Front-End Developer | React.js | Data Analysis | Machine Learning</b>
+  <b>Front-End Developer | React.js | Data Analysis | Machine Learning | Software Engineering</b>
 </p>
 
 <!-- Badges with Animations -->
@@ -20,6 +20,14 @@
   <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" style="animation: badge-animation 1s ease-in-out infinite alternate;">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="animation: badge-animation 1s ease-in-out infinite alternate;">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="animation: badge-animation 1s ease-in-out infinite alternate;">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="animation: badge-animation 1s ease-in-out infinite alternate;">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="animation: badge-animation 1s ease-in-out infinite alternate;">
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="animation: badge-animation 1s ease-in-out infinite alternate;">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="animation: badge-animation 1s ease-in-out infinite alternate;">
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="animation: badge-animation 1s ease-in-out infinite alternate;">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="animation: badge-animation 1s ease-in-out infinite alternate;">
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="animation: badge-animation 1s ease-in-out infinite alternate;">
+  <img src="https://img.shields.io/badge/-OpenShift-DA532C?style=for-the-badge&logo=openshift&logoColor=white" alt="OpenShift" style="animation: badge-animation 1s ease-in-out infinite alternate;">
 </p>
 
 <!-- Most Used Languages -->
@@ -28,12 +36,39 @@
 </p>
 
 <!-- About Me -->
-## About Me
+## About Me 🌟
 
-I am a dedicated front-end developer with a passion for creating engaging and intuitive web applications using React.js. With a strong background in JavaScript and Python, I thrive in building performant and accessible user interfaces. Beyond front-end development, I have a keen interest in data analysis and machine learning. My curiosity drives me to continuously learn and apply new technologies to solve real-world problems and uncover meaningful insights from data.
+Hello! I’m **Ali Abdo**, a passionate **Front-End Developer** and **Machine Learning Enthusiast** with a deep love for crafting beautiful and intuitive web applications. My main focus is on leveraging the powerful **Next.js** framework to build **dynamic**, **scalable**, and **performant** web solutions. 🚀
+
+### What I Do 🛠️
+
+As a front-end enthusiast, I specialize in:
+
+- **Creating Engaging Web Experiences** with **Next.js** 🖥️
+- **Designing User-Friendly Interfaces** using **HTML**, **CSS**, and **Tailwind CSS** 🎨
+- **Developing Robust Backend Solutions** with **Node.js** and **Express.js** 🔧
+- **Exploring Machine Learning Techniques** to uncover insights and build predictive models using **Python**, **NumPy**, **Pandas**, **scikit-learn**, **TensorFlow**, and **Keras** 🤖
+
+### My Machine Learning Journey 🚀
+
+In addition to front-end development, I’m passionate about **Machine Learning** and have hands-on experience in:
+
+- **Data Analysis and Visualization**: Transforming raw data into actionable insights using **NumPy**, **Pandas**, and visualization libraries. 📊
+- **Building Predictive Models**: Applying machine learning algorithms to solve real-world problems, from **heart disease prediction** to **pneumonia detection**. 🧠
+- **Deep Learning**: Developing sophisticated models with **TensorFlow** and **Keras** for advanced tasks such as image classification and natural language processing. 🌟
+
+### My Interests ✨
+
+- **Exploring Cloud Technologies** like **Docker**, **Kubernetes**, and **OpenShift** ☁️
+- **Adopting Best Practices in DevOps** and **Agile Methodologies** to streamline development workflows ⚙️
+- **Working with NoSQL Databases** for flexible and scalable data management 🗄️
+
+### My Approach 🚀
+
+I’m driven by curiosity and a desire to tackle new challenges. I stay up-to-date with the latest advancements in technology and continuously seek out opportunities to learn and grow. I believe in building **performant**, **accessible**, and **innovative solutions** to solve real-world problems and make a positive impact. 🌟
 
 <!-- Skills -->
-## Languages and Tools 
+## Languages and Tools
 <div>
 
 ### Programming Languages:
@@ -49,7 +84,6 @@ I am a dedicated front-end developer with a passion for creating engaging and in
 ### UI/UX Design Principles and Best Practices:
 | UX | UI | Accessibility | Performance | Usability |
 |----|----|---------------|-------------|-----------|
-
 
 ### Data Analysis Tools:
 | Python | NumPy | Pandas |
@@ -70,6 +104,25 @@ I am a dedicated front-end developer with a passion for creating engaging and in
 | Scrum | Kanban |
 |-------|--------|
 
+### Web Development:
+| HTML | CSS | Tailwind CSS |
+|------|-----|--------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/> |
+
+### Backend Development:
+| Node.js | Express.js |
+|---------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="55" height="55"/> |
+
+### Cloud & DevOps:
+| Cloud Native | DevOps | Docker | Kubernetes | OpenShift |
+|--------------|--------|--------|------------|-----------|
+| <img src="https://img.shields.io/badge/-Cloud%20Native-0a0a0a?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Native" style="animation: badge-animation 1s ease-in-out infinite alternate;"/> | <img src="https://img.shields.io/badge/-DevOps-4B8BBE?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" style="animation: badge-animation 1s ease-in-out infinite alternate;"/> | <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="animation: badge-animation 1s ease-in-out infinite alternate;"/> | <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="animation: badge-animation 1s ease-in-out infinite alternate;"/> | <img src="https://img.shields.io/badge/-OpenShift-DA532C?style=for-the-badge&logo=openshift&logoColor=white" alt="OpenShift" style="animation: badge-animation 1s ease-in-out infinite alternate;"/> |
+
+### Databases:
+| NoSQL |
+|-------|
+| <img src="https://img.shields.io/badge/-NoSQL-4E9F3D?style=for-the-badge&logo=nosql&logoColor=white" alt="NoSQL" style="animation: badge-animation 1s ease-in-out infinite alternate;"/> |
 
 </div>
 
@@ -95,7 +148,12 @@ I am a dedicated front-end developer with a passion for creating engaging and in
 - [Professional Front-End Web Development by Udacity](https://confirm.udacity.com/7PQQECPH)
 
 <!-- Contact -->
-## Contact
+### Let's Connect! 📬
 
-- 📧 Email: aliabdo12121@outlook.sa
-- 💼 LinkedIn: [Ali Abdo](https://www.linkedin.com/in/aliabdo6/)
+Feel free to reach out to me if you’re interested in collaborating or just want to chat about tech!
+
+- 📧 **Email:** [aliabdo12121@outlook.sa](mailto:aliabdo12121@outlook.sa)
+- 💼 **LinkedIn:** [Ali Abdo](https://www.linkedin.com/in/aliabdo6/)
+- 📱 **WhatsApp:** [+201090561644](https://wa.me/201090561644)
+
+Looking forward to connecting with you! 😊
