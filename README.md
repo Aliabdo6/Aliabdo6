@@ -150,19 +150,37 @@ Feel free to reach out to me if you’re interested in collaborating or just wan
 Looking forward to connecting with you! 😊
 
 <!-- Projects Showcase -->
-## Projects 🚀
+## Projects
 
-### Social Media Application
-- **Description**: A social media application built with Next.js, TypeScript, Tailwind CSS, and Clerk Auth for authentication.
-- **Repository**: [GitHub Repository](https://github.com/Aliabdo6/next-social)
+### **[Social Media Application](https://github.com/Aliabdo6/next-social)**
+- **Description:** A social media platform built using Next.js, TypeScript, Tailwind CSS, and Clerk Auth for user authentication. It includes features like user profiles, posts, comments, and likes.
+- **Technologies:** Next.js, TypeScript, Tailwind CSS, Clerk Auth
+- **Live Demo:** [Social Media App](https://next-social-app.vercel.app/)
 
-### Heart Disease Prediction Model
-- **Description**: A machine learning model to predict heart disease using various algorithms and techniques.
-- **Repository**: [GitHub Repository](https://github.com/Aliabdo6/heart-disease-prediction)
+### **[Summarize Articles](https://summarizer-ai.netlify.app/)**
+- **Description:** A web application that summarizes articles using OpenAI's GPT-4. Users can input article text or URLs to receive concise summaries.
+- **Technologies:** OpenAI GPT-4, JavaScript, React.js
+- **Live Demo:** [Summarize Articles](https://summarizer-ai.netlify.app/)
 
-### Pneumonia Detection with Deep Learning
-- **Description**: A deep learning project to detect pneumonia from chest X-ray images using TensorFlow and Keras.
-- **Repository**: [GitHub Repository](https://github.com/Aliabdo6/pneumonia-detection)
+### **[Data Analysis Project](https://app.datacamp.com/workspace/w/68a6e7d7-f9af-4793-9cb7-31c12eeaf911/edit)**
+- **Description:** A data analysis project investigating Netflix movies and guest stars in "The Office." The project explores datasets to uncover insights and trends.
+- **Technologies:** Python, Pandas, DataCamp
+- **Live Demo:** [Data Analysis Project](https://app.datacamp.com/workspace/w/68a6e7d7-f9af-4793-9cb7-31c12eeaf911/edit)
+
+### **[Heart Disease Prediction using Machine Learning](https://github.com/Aliabdo6/predicting-heart-disease-sklearn)**
+- **Description:** An end-to-end machine learning project for predicting heart disease. It demonstrates the application of foundational machine learning and data science concepts for classification.
+- **Technologies:** Python, scikit-learn, Pandas, NumPy
+- **Repository:** [GitHub Repository](https://github.com/Aliabdo6/predicting-heart-disease-sklearn)
+
+### **[Chest X-ray Pneumonia Detection using Deep Learning](https://github.com/Aliabdo6/Pneumonia-Classifier-ml)**
+- **Description:** A deep learning project leveraging convolutional neural networks (CNNs) to classify chest X-ray images for pneumonia detection.
+- **Technologies:** Python, TensorFlow, Keras, CNNs
+- **Repository:** [GitHub Repository](https://github.com/Aliabdo6/Pneumonia-Classifier-ml)
+
+### **[Scikit-Learn Workflow Repository](https://github.com/Aliabdo6/scikit-learn-salutations)**
+- **Description:** A repository showcasing an end-to-end Scikit-Learn workflow, including data preparation, model selection, evaluation, and improvement techniques.
+- **Technologies:** Python, scikit-learn, Pandas, NumPy
+- **Repository:** [GitHub Repository](https://github.com/Aliabdo6/scikit-learn-salutations)
 
 ---
 
