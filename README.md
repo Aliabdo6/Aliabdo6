@@ -268,9 +268,37 @@ Feel free to reach out to me if you’re interested in collaborating or just wan
 
 
 
+---
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+LinkedIn!;I'm+always+happy+to+connect+:)">
+</h3>
 
 <p align="center">
-  Thank you for visiting my profile! Feel free to reach out to me if you want to connect, collaborate, or just chat about technology! 😊
+  <a href="https://github.com/Aliabdo6" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/aliabdo6" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aliabdo6&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aliabdo6&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<h4 align="center">
+  🏆 GitHub Trophies
+</h4>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
