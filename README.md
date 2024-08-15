@@ -82,7 +82,7 @@ I’m driven by curiosity and a desire to tackle new challenges. I stay up-to-da
 Here are some of the certifications I have earned to further my skills and knowledge:
 
 - [**Meta Front-End Developer Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/E6PP9FUKV7VR)
-- [**Data Camp Data Analyst Certificate**]([https://www.datacamp.com/completed/statement-of-accomplishment/track/b2edcc94eb447760d59fa9aa02bb64d9d423bdc0](https://www.datacamp.com/statement-of-accomplishment/track/b2edcc94eb447760d59fa9aa02bb64d9d423bdc0?raw=1))
+- [**Data Camp Data Analyst Certificate**](https://www.datacamp.com/statement-of-accomplishment/track/b2edcc94eb447760d59fa9aa02bb64d9d423bdc0?raw=1)
 - [**Udacity Professional Front-End Web Developer Nanodegree**](https://www.udacity.com/certificate/7PQQECPH)
 - [**IBM Back-End JavaScript Developer Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/BXBP7NQXAHRE)
 <!-- Skills -->
