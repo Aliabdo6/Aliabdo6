@@ -5,6 +5,8 @@
   <b>Front-End Developer | React.js | Data Analysis | Machine Learning | Software Engineering</b>
 </p>
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-740016%20lines%20of%20code-blue)
+
 <!-- Badges with Animations -->
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" style="animation: badge-animation 1s ease-in-out infinite alternate;">
@@ -31,8 +33,6 @@
   <img src="https://img.shields.io/badge/-OpenShift-DA532C?style=for-the-badge&logo=openshift&logoColor=white" alt="OpenShift" style="animation: badge-animation 1s ease-in-out infinite alternate;">
 </p>
 
-
-
 <!-- About Me -->
 ## About Me 🌟
 
@@ -44,8 +44,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
-
-Hello! I’m **Ali Abdo**, a passionate **Front-End Developer** and **Machine Learning Enthusiast** with a deep love for crafting beautiful and intuitive web applications. My main focus is on leveraging the powerful **Next.js** framework to build **dynamic**, **scalable**, and **performant** web solutions. 🚀
+Hello! I'm **Ali Abdo**, a passionate **Front-End Developer** and **Machine Learning Enthusiast** with a deep love for crafting beautiful and intuitive web applications. My main focus is on leveraging the powerful **Next.js** framework to build **dynamic**, **scalable**, and **performant** web solutions. 🚀
 
 I hold a **Bachelor of Science in Computer Science** from **Tanta University** (2018 - 2022) and have earned several professional certifications in Front-End Development, Data Analysis, and Back-End JavaScript Development.
 
@@ -60,7 +59,7 @@ As a front-end enthusiast, I specialize in:
 
 ### My Machine Learning Journey 🚀
 
-In addition to front-end development, I’m passionate about **Machine Learning** and have hands-on experience in:
+In addition to front-end development, I'm passionate about **Machine Learning** and have hands-on experience in:
 
 - **Data Analysis and Visualization**: Transforming raw data into actionable insights using **NumPy**, **Pandas**, and visualization libraries. 📊
 - **Building Predictive Models**: Applying machine learning algorithms to solve real-world problems, from **heart disease prediction** to **pneumonia detection**. 🧠
@@ -74,8 +73,7 @@ In addition to front-end development, I’m passionate about **Machine Learning*
 
 ### My Approach 🚀
 
-I’m driven by curiosity and a desire to tackle new challenges. I stay up-to-date with the latest advancements in technology and continuously seek out opportunities to learn and grow. I believe in building **performant**, **accessible**, and **innovative solutions** to solve real-world problems and make a positive impact. 🌟
-
+I'm driven by curiosity and a desire to tackle new challenges. I stay up-to-date with the latest advancements in technology and continuously seek out opportunities to learn and grow. I believe in building **performant**, **accessible**, and **innovative solutions** to solve real-world problems and make a positive impact. 🌟
 
 ## Certifications 🎓
 
@@ -85,7 +83,7 @@ Here are some of the certifications I have earned to further my skills and knowl
 - [**Data Camp Data Analyst Certificate**](https://www.datacamp.com/statement-of-accomplishment/track/b2edcc94eb447760d59fa9aa02bb64d9d423bdc0?raw=1)
 - [**Udacity Professional Front-End Web Developer Nanodegree**](https://www.udacity.com/certificate/7PQQECPH)
 - [**IBM Back-End JavaScript Developer Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/BXBP7NQXAHRE)
-<!-- Skills -->
+
 ## 🛠️ Languages and Tools
 
 <div align="center">
@@ -177,7 +175,6 @@ Here are some of the certifications I have earned to further my skills and knowl
     <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="openshift" width="40" height="40"/>
   </a>
 </p>
-
 ### 🗄️ Databases
 
 <p align="center">
@@ -201,14 +198,14 @@ Here are some of the certifications I have earned to further my skills and knowl
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aliabdo6&show_icons=true&theme=dark" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aliabdo6&theme=dark" alt="GitHub Streak">
-  
 </p>
+
+[![Ali Abdo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aliabdo6&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Contact Information -->
 ## Let's Connect 🌐
 
-
-Feel free to reach out to me if you’re interested in collaborating or just want to chat about tech!
+Feel free to reach out to me if you're interested in collaborating or just want to chat about tech!
 
 <p align="center">
   <a href="mailto:aliabdo12121@outlook.sa" target="_blank">
@@ -265,11 +262,6 @@ Feel free to reach out to me if you’re interested in collaborating or just wan
 
 ---
 
-
-
-
----
-
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
@@ -301,4 +293,3 @@ Feel free to reach out to me if you’re interested in collaborating or just wan
 </h4>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
