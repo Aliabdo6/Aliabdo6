@@ -5,7 +5,6 @@
   <b>Front-End Developer | React.js | Data Analysis | Machine Learning | Software Engineering</b>
 </p>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-740016%20lines%20of%20code-blue)
 
 <!-- Badges with Animations -->
 <p align="center">
