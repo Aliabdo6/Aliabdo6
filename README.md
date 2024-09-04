@@ -43,32 +43,36 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
-Hello! I'm **Ali Abdo**, a passionate **Front-End Developer** and **Machine Learning Enthusiast** with a deep love for crafting beautiful and intuitive web applications. My main focus is on leveraging the powerful **Next.js** framework to build **dynamic**, **scalable**, and **performant** web solutions. 🚀
+Hello! I'm **Ali Abdo**, a passionate **Front-End Developer** and **Data Analyst** with a deep love for crafting beautiful, intuitive web applications and deriving insights from data. My main focus is on leveraging powerful frameworks like **Next.js** to build **dynamic**, **scalable**, and **performant** web solutions, while also applying data analysis techniques to solve complex problems. 🚀
 
 I hold a **Bachelor of Science in Computer Science** from **Tanta University** (2018 - 2022) and have earned several professional certifications in Front-End Development, Data Analysis, and Back-End JavaScript Development.
 
 ### What I Do 🛠️
 
-As a front-end enthusiast, I specialize in:
+As a front-end enthusiast and data analyst, I specialize in:
 
 - **Creating Engaging Web Experiences** with **Next.js** 🖥️
 - **Designing User-Friendly Interfaces** using **HTML**, **CSS**, and **Tailwind CSS** 🎨
 - **Developing Robust Backend Solutions** with **Node.js** and **Express.js** 🔧
-- **Exploring Machine Learning Techniques** to uncover insights and build predictive models using **Python**, **NumPy**, **Pandas**, **scikit-learn**, **TensorFlow**, and **Keras** 🤖
+- **Analyzing Data** to uncover insights and trends using **Python**, **NumPy**, **Pandas**, and various data visualization libraries 📊
+- **Exploring Machine Learning Techniques** to build predictive models using **scikit-learn**, **TensorFlow**, and **Keras** 🤖
 
-### My Machine Learning Journey 🚀
+### My Data Analysis Journey 🚀
 
-In addition to front-end development, I'm passionate about **Machine Learning** and have hands-on experience in:
+In addition to front-end development, I'm passionate about **Data Analysis** and have hands-on experience in:
 
-- **Data Analysis and Visualization**: Transforming raw data into actionable insights using **NumPy**, **Pandas**, and visualization libraries. 📊
-- **Building Predictive Models**: Applying machine learning algorithms to solve real-world problems, from **heart disease prediction** to **pneumonia detection**. 🧠
-- **Deep Learning**: Developing sophisticated models with **TensorFlow** and **Keras** for advanced tasks such as image classification and natural language processing. 🌟
+- **Data Cleaning and Preprocessing**: Preparing raw data for analysis using **Python** and **Pandas**. 🧹
+- **Exploratory Data Analysis (EDA)**: Uncovering patterns and relationships in data using statistical methods and visualization techniques. 🔍
+- **Data Visualization**: Creating insightful charts and graphs to communicate findings effectively using libraries like **Matplotlib** and **Seaborn**. 📈
+- **Statistical Analysis**: Applying statistical tests and methods to draw meaningful conclusions from data. 📊
+- **Machine Learning**: Developing predictive models and applying machine learning algorithms to solve real-world problems. 🧠
 
 ### My Interests ✨
 
 - **Exploring Cloud Technologies** like **Docker**, **Kubernetes**, and **OpenShift** ☁️
 - **Adopting Best Practices in DevOps** and **Agile Methodologies** to streamline development workflows ⚙️
 - **Working with NoSQL Databases** for flexible and scalable data management 🗄️
+- **Continuous Learning** in the fields of Data Science and Machine Learning 📚
 
 ### My Approach 🚀
 
@@ -78,8 +82,8 @@ I'm driven by curiosity and a desire to tackle new challenges. I stay up-to-date
 
 Here are some of the certifications I have earned to further my skills and knowledge:
 
+- [**Data Camp Data Analyst Professional Certificate**](https://www.datacamp.com/certificate/DA0023219375492) (Issued Number: DA0023219375492)
 - [**Meta Front-End Developer Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/E6PP9FUKV7VR)
-- [**Data Camp Data Analyst Certificate**](https://www.datacamp.com/statement-of-accomplishment/track/b2edcc94eb447760d59fa9aa02bb64d9d423bdc0?raw=1)
 - [**Udacity Professional Front-End Web Developer Nanodegree**](https://www.udacity.com/certificate/7PQQECPH)
 - [**IBM Back-End JavaScript Developer Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/BXBP7NQXAHRE)
 
