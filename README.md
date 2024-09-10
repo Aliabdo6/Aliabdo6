@@ -5,7 +5,6 @@
   <b>Front-End Developer | React.js | Data Analysis | Machine Learning | Software Engineering</b>
 </p>
 
-
 <!-- Badges with Animations -->
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" style="animation: badge-animation 1s ease-in-out infinite alternate;">
@@ -45,7 +44,7 @@
 
 Hello! I'm **Ali Abdo**, a passionate **Front-End Developer** and **Data Analyst** with a deep love for crafting beautiful, intuitive web applications and deriving insights from data. My main focus is on leveraging powerful frameworks like **Next.js** to build **dynamic**, **scalable**, and **performant** web solutions, while also applying data analysis techniques to solve complex problems. 🚀
 
-I hold a **Bachelor of Science in Computer Science** from **Tanta University** (2018 - 2022) and have earned several professional certifications in Front-End Development, Data Analysis, and Back-End JavaScript Development.
+I hold a **Bachelor of Law** from **Tanta University** (2018 - 2022) and have earned several professional certifications in Front-End Development, Data Analysis, and Machine Learning.
 
 ### What I Do 🛠️
 
@@ -82,6 +81,7 @@ I'm driven by curiosity and a desire to tackle new challenges. I stay up-to-date
 
 Here are some of the certifications I have earned to further my skills and knowledge:
 
+- [**Machine Learning Specialization**](https://coursera.org/verify/specialization/BZ8YXHADCKPK) (Offered by Stanford University and DeepLearning.AI)
 - [**Data Camp Data Analyst Professional Certificate**](https://www.datacamp.com/certificate/DA0023219375492) (Issued Number: DA0023219375492)
 - [**Meta Front-End Developer Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/E6PP9FUKV7VR)
 - [**Udacity Professional Front-End Web Developer Nanodegree**](https://www.udacity.com/certificate/7PQQECPH)
@@ -168,8 +168,7 @@ Here are some of the certifications I have earned to further my skills and knowl
   <a href="https://github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <a href="https://www.docker.com/" target="_blank<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://kubernetes.io" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
@@ -178,6 +177,7 @@ Here are some of the certifications I have earned to further my skills and knowl
     <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="openshift" width="40" height="40"/>
   </a>
 </p>
+
 ### 🗄️ Databases
 
 <p align="center">
