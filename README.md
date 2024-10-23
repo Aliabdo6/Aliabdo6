@@ -84,7 +84,7 @@ Here are some of the certifications I have earned to further my skills and knowl
 - [**Machine Learning Specialization**](https://coursera.org/verify/specialization/BZ8YXHADCKPK) (Offered by Stanford University and DeepLearning.AI)
 - [**Data Camp Data Analyst Professional Certificate**](https://www.datacamp.com/certificate/DA0023219375492) (Issued Number: DA0023219375492)
 - [**Meta Front-End Developer Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/E6PP9FUKV7VR)
-- [**Udacity Professional Front-End Web Developer Nanodegree**](https://www.udacity.com/certificate/7PQQECPH)
+- [**Udacity Professional Front-End Web Developer Nanodegree**](https://www.udacity.com/certificate/e/0bdb1d5e-7174-11ed-bf41-0fa5635dc192)
 - [**IBM Back-End JavaScript Developer Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/BXBP7NQXAHRE)
 
 ## 🛠️ Languages and Tools
